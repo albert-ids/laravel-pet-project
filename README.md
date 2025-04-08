@@ -23,12 +23,12 @@ with full CRUD functionality and auto-generated API documentation using Swagger 
 
 ## Getting Started 
 
-> Make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop) installed before proceeding.
+Sownload Docker (https://www.docker.com/products/docker-desktop) installed before proceeding.
 
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/your-username/rss-parser.git
+git clone https://github.com/albert-ids/laravel-pet-project
 cd rss-parser
 
 ## Create the .env File
