@@ -1,0 +1,44 @@
+# Laravel directories
+/vendor
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/storage/logs
+/storage/framework
+/storage/api-docs
+
+# Laravel environment
+.env
+.env.backup
+.phpunit.result.cache
+
+# Docker
+docker_data.vhdx
+docker-compose.override.yml
+
+# 👉 Swagger generated docs
+/storage/api-docs
+api-docs.json
+
+# IDE & OS files
+.idea/
+.vscode/
+/.idea
+/.vscode
+.DS_Store
+Thumbs.db
+
+# NPM & Yarn logs
+npm-debug.log
+yarn-error.log
+
+# Laravel Homestead
+Homestead.json
+Homestead.yaml
+
+# Build artifacts
+*.log
+*.lock
+*.bak
+*.swp
